@@ -32,7 +32,7 @@ The "Contact" section provides my contact information. You can reach out to me v
 
 To view my portfolio locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/your-portfolio-repo.git`
+1. Clone this repository: `git clone https://github.com/sandeep7239/PortFolio`
 2. Navigate to the project folder: `cd your-portfolio-repo`
 3. Open the `index.html` file in your web browser.
 
